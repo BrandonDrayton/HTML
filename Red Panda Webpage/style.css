@@ -1,0 +1,26 @@
+footer {
+    align-items: baseline;
+}
+
+h1 {
+    background-color: brown;
+    color: lightsalmon;
+}
+
+.about {
+    color: rgb(174, 38, 38);
+}
+
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+
+tbody tr td.menu {
+    color: aliceblue;
+}
+
+marquee {
+    color: crimson;
+}
