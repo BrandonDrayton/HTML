@@ -15,12 +15,17 @@ table {
     border-collapse: separate;
     text-indent: initial;
     border-spacing: 2px;
+
 }
 
-tbody tr td.menu {
-    color: aliceblue;
+td.menu {
+    color: rgb(49, 138, 61);
 }
 
 marquee {
     color: crimson;
+}
+
+div a marquee {
+    color: aliceblue;
 }
