@@ -38,6 +38,7 @@ nav {
     padding: 10px;
     font-weight: bold;
 }
+
 li {
     list-style: none;
 }
@@ -45,5 +46,8 @@ li {
 
 .get-started-small {
     font-size: 2rem;
-    
+    margin-right: 2rem;
+    padding: none;
+    background: none;
+    border: none;
 }
