@@ -1,29 +1,27 @@
 body {
     margin: 0;
+    background-color: pink;
 }
 
 * {
     box-sizing: border-box;
 }
 
-.Navbar {
+.nav-list {
+    box-shadow: 0, 0, 10;
+    background-color: white;
+    margin: 0;
+    padding: 10px;
     display: flex;
-    flex-direction: row;
     justify-content: flex-end;
-    color: blue;
-    box-shadow: 0px, 0px, 10px;
     align-items: center;
 }
 
-nav {
-    background-color: aliceblue;
-    box-sizing: border-box;
+.nav-item {
+    list-style: none;
+    margin-right: 10px;
 }
 
-body {
-    background-color: pink;
-}
-
-.Ladybug {
-    justify-content: flex-start;
+.nav-item a {
+    text-decoration: none;
 }
