@@ -7,6 +7,10 @@ body {
     box-sizing: border-box;
 }
 
+nav {
+    border-bottom: 5px, blue;
+}
+
 .nav-list {
     box-shadow: 0, 0, 10;
     background-color: white;
@@ -24,4 +28,14 @@ body {
 
 .nav-item a {
     text-decoration: none;
+}
+
+.nav-item:first-child {
+    margin-right: auto;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.get-started-small {
+    list-style: none;
 }
