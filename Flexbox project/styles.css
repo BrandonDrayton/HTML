@@ -5,3 +5,19 @@ body {
 * {
     box-sizing: border-box;
 }
+
+.ladybug {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: white;
+    color: blue;
+}
+
+nav {
+    background-color: aliceblue;
+}
+
+body {
+    background-color: pink;
+}
