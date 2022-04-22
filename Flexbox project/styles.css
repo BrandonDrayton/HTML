@@ -57,3 +57,60 @@ body {
 .sign-up-button{
     margin: 5px 40px 0px 20px;
 }
+
+.content{
+    display: flex;
+    max-width: 1000px;
+    margin: 100px auto;
+    align-items: center;
+}
+
+.content-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-weight: 600;
+    font-size: small;
+    color:rgb(40 41 141);
+    font-family: 'Montserrat', sans-serif;
+    font-size: xx-large;
+    padding-top: 40px;
+
+
+}
+
+
+
+
+
+.title {
+    margin-top: 10px;
+    padding-top: 50px;
+    font-size: 70px;
+    line-height: 1.1em;
+}
+
+
+.copy{
+
+}   
+
+.sign-up{
+    border: 1px solid rgb(40 41 141);
+}
+
+.form-group{
+
+}
+
+.content-image {
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 50px;
+}
+
+
+span {
+    color: rgb(106, 185, 165);
+}
