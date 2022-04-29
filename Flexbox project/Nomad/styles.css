@@ -40,5 +40,21 @@
 
 .nav-links li a {
     text-decoration: none;
+}
+
+.works {
+    color: grey;
+}
+
+
+.team {
+    color: black;
+}
+
+.manifest {
+    color: grey;
+}
+
+.contact {
     color: grey;
 }
