@@ -1,0 +1,28 @@
+html {
+    background-color: yellow;
+}
+
+h1 {
+    font-size: large;
+}
+
+.green {
+    background-color: green;
+    color: white;
+}
+
+li {
+    font-family: ;
+}
+
+p {
+    color: green;
+}
+
+.highlight {
+    background-color: rgb(69, 239, 69);
+}
+
+
+
+NOTE: EVERYTHING SHOULD BOX SIZING BORDER BOX

@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    background-color: darkcyan;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    background-color: rgb(40, 189, 189);
+    color: rgb(214, 226, 227);
+    text-align: center;
+    position: relative;
+    padding: 12px 8px 12px 40px;
+    margin: 12px 0%;
+
+
+}
+
+h1 {
+    text-align: center;
+    color: rgb(214, 226, 227);
+    padding-left: 40px;
+}

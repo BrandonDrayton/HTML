@@ -1,0 +1,37 @@
+.box1 {
+    height: 300px;
+    width: 300px;
+    background-color: rgb(255, 14, 14);
+    color: rgb(2, 2, 2);
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.box2 {
+    height: 300px;
+    width: 300px;
+    background-color: rgb(38, 14, 255);
+    color: rgb(2, 2, 2);
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.box3 {
+    height: 300px;
+    width: 300px;
+    background-color: rgb(255, 251, 14);
+    color: rgb(2, 2, 2);
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+
+
+
+.main {
+    display: flex;
+    justify-content: center;
+}

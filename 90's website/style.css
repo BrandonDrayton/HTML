@@ -1,0 +1,14 @@
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+
+.menu1 {
+    color: beige;
+    text-align: center;
+}
+
+.tr {
+    color: blue;
+}
