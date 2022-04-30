@@ -124,24 +124,78 @@
     font-weight: bold
 }
 
-.release-text {}
+.release-text {
+    color: grey;
+}
 
 .line-of-business {
     color: black;
     font-weight: bold
 }
 
-.line-of-business-text {}
+.line-of-business-text {
+    color: grey;
+}
 
 .photos-by {
     color: black;
     font-weight: bold
 }
 
-.photos-by-text {}
+.photos-by-text {
+    color: grey;
+}
 
 .images-top {
     border-top: 2px solid;
     border-top-color: blue;
     padding-top: 80px
+}
+
+.first-image {
+    padding-bottom: 40px;
+}
+
+.second-image {
+    padding-bottom: 80px
+}
+
+.div-3 {
+    display: flex;
+}
+
+
+.div-3-left-container {
+    border-top: solid;
+    border-top-color: blue;
+    margin-right: 7em;
+}
+
+
+
+.labore-title {
+    color: blue;
+}
+
+.labore-text {
+    color: grey
+}
+
+.div-5 {
+    display: flex;
+}
+
+.div-5-right {
+    border-top: solid;
+    border-top-color: blue;
+    margin-left: 7em;
+
+}
+
+.labore-title-2 {
+    color: blue;
+}
+
+.labore-text-2 {
+    color: grey
 }
