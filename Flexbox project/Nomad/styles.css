@@ -1,12 +1,13 @@
 .container {
-    margin: 0;
-
+    margin: 40px;
+    background-color: eggshell;
 }
 
 .header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 80px;
     padding: 8px 0px;
 
 }
@@ -15,8 +16,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 10px 20px;
-    padding: 20px
 }
 
 .nav-bar {
@@ -58,3 +57,71 @@
 .contact {
     color: grey;
 }
+
+.content-top {}
+
+.content-top-text {
+    border-bottom: 2px solid;
+    border-bottom-color: blue;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.nomad {
+    color: blue
+}
+
+.the-case {
+    color: black;
+    font-weight: bold
+}
+
+.the-case-text {
+    width: 40em;
+    flex-wrap: wrap;
+}
+
+.div-1-column-2 {}
+
+.devliverable {
+    color: black;
+    font-weight: bold
+}
+
+.devliverable-text {}
+
+.devliverable-text-branding {}
+
+.devliverable-text-website {}
+
+.devliverable-text-photography {}
+
+.devliverable-text-art-direction {}
+
+.devliverable-text-naming {}
+
+.div-1-column-3 {
+    justify-content: space-between;
+}
+
+.release {
+    color: black;
+    font-weight: bold
+}
+
+.release-text {}
+
+.line-of-buisness {
+    color: black;
+    font-weight: bold
+}
+
+.line-of-buisness-text {}
+
+.photos-by {
+    color: black;
+    font-weight: bold
+}
+
+.photos-by-text {}
