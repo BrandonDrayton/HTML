@@ -58,11 +58,11 @@
     color: grey;
 }
 
-.content-top {}
+.content-top {
+    margin-bottom: 80px;
+}
 
 .content-top-text {
-    border-bottom: 2px solid;
-    border-bottom-color: blue;
     display: flex;
     justify-content: space-between;
 
@@ -80,26 +80,40 @@
 .the-case-text {
     width: 40em;
     flex-wrap: wrap;
+    color: grey;
 }
 
 .div-1-column-2 {}
 
-.devliverable {
+.deliverable {
     color: black;
-    font-weight: bold
+    font-weight: bold;
+    padding-top: 60px;
 }
 
-.devliverable-text {}
+.deliverable-text {
+    list-style: none;
+    padding: 0px;
+    color: grey
+}
 
-.devliverable-text-branding {}
+.deliverable-text-branding {
+    padding-bottom: 5px
+}
 
-.devliverable-text-website {}
+.deliverable-text-website {
+    padding-bottom: 5px
+}
 
-.devliverable-text-photography {}
+.deliverable-text-photography {
+    padding-bottom: 5px
+}
 
-.devliverable-text-art-direction {}
+.deliverable-text-art-direction {
+    padding-bottom: 5px
+}
 
-.devliverable-text-naming {}
+.deliverable-text-naming {}
 
 .div-1-column-3 {
     justify-content: space-between;
@@ -112,12 +126,12 @@
 
 .release-text {}
 
-.line-of-buisness {
+.line-of-business {
     color: black;
     font-weight: bold
 }
 
-.line-of-buisness-text {}
+.line-of-business-text {}
 
 .photos-by {
     color: black;
@@ -125,3 +139,9 @@
 }
 
 .photos-by-text {}
+
+.images-top {
+    border-top: 2px solid;
+    border-top-color: blue;
+    padding-top: 80px
+}
